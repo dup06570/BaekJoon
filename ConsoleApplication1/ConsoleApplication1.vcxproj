@@ -126,11 +126,17 @@
     <ClCompile Include="1003.cpp" />
     <ClCompile Include="10826.cpp" />
     <ClCompile Include="11726.cpp" />
+    <ClCompile Include="13301.cpp" />
     <ClCompile Include="1463.cpp" />
     <ClCompile Include="14916.cpp" />
+    <ClCompile Include="16395.cpp" />
+    <ClCompile Include="2491.cpp" />
     <ClCompile Include="2579.cpp" />
+    <ClCompile Include="2670.cpp" />
     <ClCompile Include="2839.cpp" />
     <ClCompile Include="9095.cpp" />
+    <ClCompile Include="9625.cpp" />
+    <ClCompile Include="9656.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
