@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1003.cpp" />
+    <ClCompile Include="10211.cpp" />
     <ClCompile Include="10826.cpp" />
     <ClCompile Include="11726.cpp" />
     <ClCompile Include="13301.cpp" />
@@ -135,6 +136,7 @@
     <ClCompile Include="2670.cpp" />
     <ClCompile Include="2839.cpp" />
     <ClCompile Include="9095.cpp" />
+    <ClCompile Include="9507.cpp" />
     <ClCompile Include="9625.cpp" />
     <ClCompile Include="9656.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
