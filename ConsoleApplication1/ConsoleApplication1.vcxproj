@@ -124,14 +124,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1003.cpp" />
+    <ClCompile Include="1021.cpp" />
     <ClCompile Include="10211.cpp" />
     <ClCompile Include="10826.cpp" />
     <ClCompile Include="10828.cpp" />
     <ClCompile Include="10845.cpp" />
     <ClCompile Include="10866.cpp" />
+    <ClCompile Include="11279.cpp" />
+    <ClCompile Include="11286.cpp" />
     <ClCompile Include="11726.cpp" />
     <ClCompile Include="11727.cpp" />
     <ClCompile Include="11866.cpp" />
+    <ClCompile Include="1235.cpp" />
+    <ClCompile Include="12605.cpp" />
     <ClCompile Include="13301.cpp" />
     <ClCompile Include="13699.cpp" />
     <ClCompile Include="14495.cpp" />
@@ -141,26 +146,35 @@
     <ClCompile Include="14916.cpp" />
     <ClCompile Include="15489.cpp" />
     <ClCompile Include="15624.cpp" />
+    <ClCompile Include="15828.cpp" />
     <ClCompile Include="16395.cpp" />
     <ClCompile Include="17484.cpp" />
     <ClCompile Include="17626.cpp" />
     <ClCompile Include="1904.cpp" />
     <ClCompile Include="1920.cpp" />
+    <ClCompile Include="1927.cpp" />
+    <ClCompile Include="1966.cpp" />
     <ClCompile Include="19947.cpp" />
+    <ClCompile Include="2075.cpp" />
     <ClCompile Include="2164.cpp" />
     <ClCompile Include="2193.cpp" />
     <ClCompile Include="24417.cpp" />
     <ClCompile Include="2491.cpp" />
+    <ClCompile Include="2504.cpp" />
+    <ClCompile Include="25757.cpp" />
     <ClCompile Include="2579.cpp" />
     <ClCompile Include="2670.cpp" />
     <ClCompile Include="2839.cpp" />
     <ClCompile Include="4949.cpp" />
+    <ClCompile Include="5568.cpp" />
     <ClCompile Include="9095.cpp" />
+    <ClCompile Include="9375.cpp" />
     <ClCompile Include="9461.cpp" />
     <ClCompile Include="9507.cpp" />
     <ClCompile Include="9625.cpp" />
     <ClCompile Include="9656.cpp" />
     <ClCompile Include="9657.cpp" />
+    <ClCompile Include="9933.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
