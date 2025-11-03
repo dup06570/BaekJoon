@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1003.cpp" />
+    <ClCompile Include="10799.cpp" />
     <ClCompile Include="10826.cpp" />
     <ClCompile Include="11652.cpp" />
     <ClCompile Include="11726.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="1874.cpp" />
     <ClCompile Include="1927.cpp" />
     <ClCompile Include="1935.cpp" />
+    <ClCompile Include="1965.cpp" />
     <ClCompile Include="20920.cpp" />
     <ClCompile Include="2161.cpp" />
     <ClCompile Include="2346.cpp" />
@@ -150,9 +152,11 @@
     <ClCompile Include="28279.cpp" />
     <ClCompile Include="2839.cpp" />
     <ClCompile Include="3986.cpp" />
+    <ClCompile Include="5397.cpp" />
     <ClCompile Include="5568.cpp" />
     <ClCompile Include="9095.cpp" />
     <ClCompile Include="9656.cpp" />
+    <ClCompile Include="9657.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
