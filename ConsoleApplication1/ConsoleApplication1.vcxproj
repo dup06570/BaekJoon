@@ -130,11 +130,13 @@
     <ClCompile Include="11726.cpp" />
     <ClCompile Include="12789.cpp" />
     <ClCompile Include="1302.cpp" />
+    <ClCompile Include="13414.cpp" />
     <ClCompile Include="1417.cpp" />
     <ClCompile Include="1463.cpp" />
     <ClCompile Include="14916.cpp" />
     <ClCompile Include="17219.cpp" />
     <ClCompile Include="17413.cpp" />
+    <ClCompile Include="1788.cpp" />
     <ClCompile Include="1822.cpp" />
     <ClCompile Include="1874.cpp" />
     <ClCompile Include="1927.cpp" />
