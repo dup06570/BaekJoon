@@ -1,27 +1,29 @@
 //#include <iostream>
 //#include <algorithm>
+//#include <cmath>
 //using namespace std;
 //int main() {
 //	ios::sync_with_stdio(false);
 //	cin.tie(nullptr);
 //
-//    int N, c;                
-//    long double gg, gb, bg, bb;
-//    cin >> N >> c;
-//    cin >> gg >> gb >> bg >> bb;
+//	double A, a, B, b;
 //
-//    long double good = 0.0L, bad = 0.0L;
-//    if (c == 0) good = 1.0L;
-//    else        bad = 1.0L;
+//	int N;
+//	double today;
+//	cin >> N >> today;
 //
-//    for (int i = 1; i <= N; i++) {
-//        long double ngood = good * gg + bad * bg;
-//        long double nbad = good * gb + bad * bb;
-//        good = ngood;
-//        bad = nbad;
-//    }
+//	cin >> A, a, B, b;
 //
-//    cout << (long long)llround(good * 1000.0L) << '\n';
-//    cout << (long long)llround(bad * 1000.0L) << '\n';
+//	double out = today;
+//	
+//	whie(N > 0) {
+//		double out_ = 1 - today;
+//		out = (out * A) + (out_ * B);
+//		N -= 1;
+//	}
+//	double out_ = 1 - out;
+//	cout << round(out * 10) * 100 << '\n';
+//	cout << round(out_ * 10) * 100 << '\n';
+//
 //    return 0;
 //}
