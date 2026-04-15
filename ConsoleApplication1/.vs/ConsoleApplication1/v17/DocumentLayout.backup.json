@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4CB5282-8E9C-4765-A201-6F50B88F3BFB}|ConsoleApplication1.vcxproj|F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\10546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4CB5282-8E9C-4765-A201-6F50B88F3BFB}|ConsoleApplication1.vcxproj|solutionrelative:10546.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CB5282-8E9C-4765-A201-6F50B88F3BFB}|ConsoleApplication1.vcxproj|F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\6571.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4CB5282-8E9C-4765-A201-6F50B88F3BFB}|ConsoleApplication1.vcxproj|solutionrelative:6571.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4CB5282-8E9C-4765-A201-6F50B88F3BFB}|ConsoleApplication1.vcxproj|F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\21735.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A4CB5282-8E9C-4765-A201-6F50B88F3BFB}|ConsoleApplication1.vcxproj|solutionrelative:21735.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -235,19 +243,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "10546.cpp",
+              "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\10546.cpp",
+              "RelativeDocumentMoniker": "10546.cpp",
+              "ToolTip": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\10546.cpp",
+              "RelativeToolTip": "10546.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T02:17:15.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6571.cpp",
+              "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\6571.cpp",
+              "RelativeDocumentMoniker": "6571.cpp",
+              "ToolTip": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\6571.cpp",
+              "RelativeToolTip": "6571.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T01:18:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "21735.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\21735.cpp",
               "RelativeDocumentMoniker": "21735.cpp",
               "ToolTip": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\21735.cpp",
               "RelativeToolTip": "21735.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-12T07:14:23.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "14607.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\14607.cpp",
               "RelativeDocumentMoniker": "14607.cpp",
@@ -255,12 +289,11 @@
               "RelativeToolTip": "14607.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-11T12:52:30.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-11T12:52:30.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "25418.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\25418.cpp",
               "RelativeDocumentMoniker": "25418.cpp",
@@ -272,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "4158.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\4158.cpp",
               "RelativeDocumentMoniker": "4158.cpp",
@@ -284,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "31575.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\31575.cpp",
               "RelativeDocumentMoniker": "31575.cpp",
@@ -296,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "26042.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\26042.cpp",
               "RelativeDocumentMoniker": "26042.cpp",
@@ -308,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "24418.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\24418.cpp",
               "RelativeDocumentMoniker": "24418.cpp",
@@ -320,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "15841.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\15841.cpp",
               "RelativeDocumentMoniker": "15841.cpp",
@@ -332,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "26529.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\26529.cpp",
               "RelativeDocumentMoniker": "26529.cpp",
@@ -344,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "30802.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\30802.cpp",
               "RelativeDocumentMoniker": "30802.cpp",
@@ -356,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "8394.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\8394.cpp",
               "RelativeDocumentMoniker": "8394.cpp",
@@ -368,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "24416.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\24416.cpp",
               "RelativeDocumentMoniker": "24416.cpp",
@@ -380,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "14494.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\14494.cpp",
               "RelativeDocumentMoniker": "14494.cpp",
@@ -392,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "17484.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\17484.cpp",
               "RelativeDocumentMoniker": "17484.cpp",
@@ -404,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "13414.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\13414.cpp",
               "RelativeDocumentMoniker": "13414.cpp",
@@ -416,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "1788.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1788.cpp",
               "RelativeDocumentMoniker": "1788.cpp",
@@ -428,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "9657.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\9657.cpp",
               "RelativeDocumentMoniker": "9657.cpp",
@@ -440,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "5397.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\5397.cpp",
               "RelativeDocumentMoniker": "5397.cpp",
@@ -452,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "1965.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1965.cpp",
               "RelativeDocumentMoniker": "1965.cpp",
@@ -464,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "10799.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\10799.cpp",
               "RelativeDocumentMoniker": "10799.cpp",
@@ -476,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "20920.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\20920.cpp",
               "RelativeDocumentMoniker": "20920.cpp",
@@ -488,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "2346.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\2346.cpp",
               "RelativeDocumentMoniker": "2346.cpp",
@@ -500,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "17413.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\17413.cpp",
               "RelativeDocumentMoniker": "17413.cpp",
@@ -512,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "26069.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\26069.cpp",
               "RelativeDocumentMoniker": "26069.cpp",
@@ -524,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "17211.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\17211.cpp",
               "RelativeDocumentMoniker": "17211.cpp",
@@ -536,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "17219.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\17219.cpp",
               "RelativeDocumentMoniker": "17219.cpp",
@@ -548,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ConsoleApplication1.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
@@ -560,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "12789.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\12789.cpp",
               "RelativeDocumentMoniker": "12789.cpp",
@@ -572,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "1935.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1935.cpp",
               "RelativeDocumentMoniker": "1935.cpp",
@@ -584,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "17212.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\17212.cpp",
               "RelativeDocumentMoniker": "17212.cpp",
@@ -596,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "17175.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\17175.cpp",
               "RelativeDocumentMoniker": "17175.cpp",
@@ -608,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "1927.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1927.cpp",
               "RelativeDocumentMoniker": "1927.cpp",
@@ -620,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "1874.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1874.cpp",
               "RelativeDocumentMoniker": "1874.cpp",
@@ -632,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "2504.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\2504.cpp",
               "RelativeDocumentMoniker": "2504.cpp",
@@ -644,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "5568.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\5568.cpp",
               "RelativeDocumentMoniker": "5568.cpp",
@@ -656,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "1822.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1822.cpp",
               "RelativeDocumentMoniker": "1822.cpp",
@@ -668,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "1417.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1417.cpp",
               "RelativeDocumentMoniker": "1417.cpp",
@@ -680,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "2776.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\2776.cpp",
               "RelativeDocumentMoniker": "2776.cpp",
@@ -692,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "28279.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\28279.cpp",
               "RelativeDocumentMoniker": "28279.cpp",
@@ -704,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "25192.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\25192.cpp",
               "RelativeDocumentMoniker": "25192.cpp",
@@ -716,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "11652.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\11652.cpp",
               "RelativeDocumentMoniker": "11652.cpp",
@@ -728,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "2161.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\2161.cpp",
               "RelativeDocumentMoniker": "2161.cpp",
@@ -740,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "3986.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\3986.cpp",
               "RelativeDocumentMoniker": "3986.cpp",
@@ -752,7 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "1302.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1302.cpp",
               "RelativeDocumentMoniker": "1302.cpp",
@@ -764,7 +797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "25214.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\25214.cpp",
               "RelativeDocumentMoniker": "25214.cpp",
@@ -776,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "9656.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\9656.cpp",
               "RelativeDocumentMoniker": "9656.cpp",
@@ -788,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "10826.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\10826.cpp",
               "RelativeDocumentMoniker": "10826.cpp",
@@ -800,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "14916.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\14916.cpp",
               "RelativeDocumentMoniker": "14916.cpp",
@@ -812,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "2579.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\2579.cpp",
               "RelativeDocumentMoniker": "2579.cpp",
@@ -824,7 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "11726.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\11726.cpp",
               "RelativeDocumentMoniker": "11726.cpp",
@@ -836,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "1003.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1003.cpp",
               "RelativeDocumentMoniker": "1003.cpp",
@@ -848,7 +881,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "9095.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\9095.cpp",
               "RelativeDocumentMoniker": "9095.cpp",
@@ -860,7 +893,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "1463.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\1463.cpp",
               "RelativeDocumentMoniker": "1463.cpp",
@@ -872,7 +905,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "2839.cpp",
               "DocumentMoniker": "F:\\Baekjoon\\G\\BaekJoon\\ConsoleApplication1\\2839.cpp",
               "RelativeDocumentMoniker": "2839.cpp",
